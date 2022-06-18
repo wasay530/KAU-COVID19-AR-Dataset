@@ -66,7 +66,7 @@ eyes or mouth, sitting, standing, walking and drinking water.
 * Accelerometer, gyroscope, and speed sensor data are acquired at a speed of 10 samples per second, and GPSsensor data data are acquired at a speed of 1 sample per 
 seconds [[5]](#5). 
 
-## Note: If you use this dataset, you have to cite the paper [[6]](#6). Thanks  
+## Note: If you use this dataset, you have to cite the paper [[6]](#6).  
 ## References
 <a id="1">[1]</a>
 Shoaib, Muhammad, Stephan Bosch, Ozlem Durmaz Incel, Hans Scholten, and Paul JM Havinga. "Fusion of smartphone motion sensors for physical activity recognition." Sensors 14, no. 6 (2014): 10146-10176.
